@@ -22,4 +22,3 @@ to AWS-scale services.
 
 ### 📫 Reach me
 - LinkedIn: www.linkedin.com/in/trivedirushi
-- Email: rushi.trivedi1990@gmail.com
