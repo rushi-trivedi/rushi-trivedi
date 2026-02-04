@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I’m Rushi Trivedi 👋
 
-<!--
-**rushi-trivedi/rushi-trivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 14+ years building performance-critical systems across
+networking/embedded platforms and cloud infrastructure. I focus on reliability,
+observability, and scalable distributed systems — from low-level C/C++ on Linux
+to AWS-scale services.
 
-Here are some ideas to get you started:
+### 🔭 Current focus
+- Distributed systems + observability pipelines
+- Cloud infrastructure and system design
+- Clean, testable, well-documented systems code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core stack
+- **Languages:** C++, Go, Python
+- **Systems:** Linux, multithreading, networking
+- **Cloud:** AWS (S3, DynamoDB, CloudWatch, IAM)
+- **Infra:** Docker, Terraform, CI/CD (GitHub Actions)
+- **Focus:** Reliability, performance, telemetry/observability
+
+### 📌 Featured work
+- (In progress) Edge observability & telemetry pipeline — design + implementation
+
+### 📫 Reach me
+- LinkedIn: www.linkedin.com/in/trivedirushi
+- Email: rushi.trivedi1990@gmail.com
